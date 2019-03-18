@@ -7,4 +7,4 @@ Proceso Remuneracion_mensual
 	Leer H;
 	sueldo <- SB+HE*5000+H*3000;
 	Escribir 'el sueldo es: ', sueldo;
-	FinProceso
+FinProceso
