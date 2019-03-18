@@ -1,4 +1,4 @@
-Proceso sin_titulo
+Proceso promedio_numeros
 	Escribir 'colocar numero 1: ';
 	leer a;
 	Escribir 'colocar numero 2: ';
