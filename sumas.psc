@@ -1,4 +1,4 @@
-Proceso sin_titulo
+Proceso suma y multiplicacion
 	Escribir 'ingrese primer numero: ';
 	leer a;
 	Escribir 'ingrese segundo numero: ';
