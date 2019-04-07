@@ -9,6 +9,12 @@ public class Javarlos {
         Scanner in = new Scanner (System.in);
         System.out.println("ingrese su salario:");
         float salar = in.nextFloat();
+         while (salar == 0) {
+            System.out.println("ingrese sueldo valido");
+            salar = in.nextFloat();
+
+        }
+        
         float aumento = (float) (salar*0.1)+salar ;
         System.out.println("su nuevo salario es "+aumento);
     }
